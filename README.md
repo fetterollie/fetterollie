@@ -1,3 +1,5 @@
+![my_title](my_title.png)
+
 ## Hey, hi, how ya doin'? 👋
 
 I'm Jonathan Fetterolf and I'm an innovative and dynamic data scientist with a leadership background in the food/beverage and retail industries. Experienced in data acquisition/cleaning, statistical analysis, and data visualization. I excel at problem solving, communicating clearly, and balancing the ambiguity of autonomy and collaboration.
