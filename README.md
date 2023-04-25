@@ -6,9 +6,9 @@ I'm Jonathan Fetterolf and I'm an innovative and dynamic data scientist with a l
 
 ## What's going on in my world?
 
-- 🌱 I’m currently learning how to leverage tableau. 
+- 🌱 I’m currently learning the in's and out's of Javasrcipt.
 - 👯 I’m looking to collaborate on data projects with specific interest in neural networks and natural language processing. 
 - 💬 Feel free to ask me about anything data.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathanfetterolf/), [Dev.To](https://dev.to/fetterollie), [Twitter](https://twitter.com/fetterollie)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use a sauna (almost) daily. (Currently on my longest streak...36 days and counting)
+- ⚡ Fun fact: I am a huge proponent of sauna use. My longest streak is 43 consecutive days.
