@@ -6,7 +6,7 @@ I'm Jonathan Fetterolf and I'm an innovative and dynamic data scientist with a l
 
 ## What's going on in my world?
 
-- 🌱 I’m currently learning the in's and out's of Javasrcipt.
+- 🌱 I’m currently learning the in's and out's of JavaSrcipt.
 - 👯 I’m looking to collaborate on data projects with specific interest in neural networks and natural language processing. 
 - 💬 Feel free to ask me about anything data.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathanfetterolf/), [Dev.To](https://dev.to/fetterollie), [Twitter](https://twitter.com/fetterollie)
