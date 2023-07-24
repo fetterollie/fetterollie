@@ -20,4 +20,14 @@ Access to clean and potable water is a fundamental necessity, yet many regions, 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathanfetterolf/), [Dev.To](https://dev.to/fetterollie), [Twitter](https://twitter.com/fetterollie)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a huge proponent of sauna use. My longest streak is 43 consecutive days.
-- 508
+
+## My Latest Blogs
+
+### [Unlocking Digital Accessibility: Navigating the World of 508 Compliance](https://dev.to/fetterollie/unlocking-digital-accessibility-navigating-the-world-of-508-compliance-4e6c)
+508 compliance refers to the standards and guidelines set forth by Section 508 of the Rehabilitation Act of 1973 in the United States. The goal of this standard is to eliminate barriers in technology that could prevent individuals with disabilities from accessing, using, and interacting with digital information and services. It requires federal agencies to ensure that their electronic and information technology (EIT) is accessible to individuals with disabilities.
+
+### [Resources for Learning React and the PERN Stack: From Setup to Authentication](https://dev.to/fetterollie/resources-for-learning-react-and-the-pern-stack-from-setup-to-authentication-92c)
+This post highlights a variety of resources that can help you learn React and the PERN stack (PostgreSQL, Express, React, and Node.js) for building fully functional applications. From tools like Create React App for streamlined setup to comprehensive tutorials and crash courses on React, Material UI, and PostgreSQL, these resources cover essential concepts and techniques. Additionally, there are tutorials on working with APIs and implementing user authentication and login functionality in the PERN stack. By utilizing these resources, you can gain a solid foundation in building React applications and understand how to integrate various technologies to create robust full-stack solutions.
+
+### [API's, MUI, PERN, & more...](https://dev.to/fetterollie/apis-mui-pern-more-2i19)
+This week, I gained valuable experience in API integration, front-end development with React and Material UI, custom theming, and back-end development with the PERN stack. These skills will undoubtedly contribute to my growth.
