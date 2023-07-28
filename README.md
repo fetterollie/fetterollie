@@ -2,7 +2,7 @@
 
 ## Hey, hi, how ya doin'? 👋
 
-I'm Jonathan Fetterolf and I'm an innovative and dynamic data scientist with a leadership background in the food/beverage and retail industries. Experienced in data acquisition/cleaning, statistical analysis, and data visualization. I excel at problem solving, communicating clearly, and balancing the ambiguity of autonomy and collaboration. I am currently a technical intern at a technology solutions company that specializes in enterprise data management. 
+I'm Jonathan Fetterolf and I'm an innovative and dynamic data scientist/developer with a leadership background in the food/beverage and retail industries. Experienced in data acquisition/cleaning, statistical analysis, and data visualization. I excel at problem solving, communicating clearly, and balancing the ambiguity of autonomy and collaboration. I am currently a technical intern at a technology solutions company that specializes in enterprise data management. 
 
 ## Recent Projects
 
@@ -14,7 +14,7 @@ Access to clean and potable water is a fundamental necessity, yet many regions, 
 
 ## What's going on in my world?
 
-- 🌱 I’m currently learning the in's and out's of JavaSrcipt, the Create-React-App framework, and Axios.
+- 🌱 I’m currently learning the implementation and capabilities of the PERN stack while honing my vanilla JavaScript.
 - 👯 I’m looking to collaborate on data projects with specific interest in neural networks and natural language processing. 
 - 💬 Feel free to ask me about anything data.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathanfetterolf/), [Dev.To](https://dev.to/fetterollie), [Twitter](https://twitter.com/fetterollie)
