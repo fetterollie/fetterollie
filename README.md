@@ -23,6 +23,9 @@ Access to clean and potable water is a fundamental necessity, yet many regions, 
 
 ## My Latest Blogs
 
+### [Deploying a PERN Full-Stack CRUD App with Vercel: Hosting and Integration Made Easy!](https://dev.to/fetterollie/deploying-a-pern-full-stack-crud-app-with-vercel-hosting-and-integration-made-easy-44fk)
+Over the past few weeks, I’ve been working to create a PERN full-stack CRUD application. I wanted to share it with others and make it available for friends, family, and colleagues to check out. So, I started looking into options to host my application.
+
 ### [Unlocking Digital Accessibility: Navigating the World of 508 Compliance](https://dev.to/fetterollie/unlocking-digital-accessibility-navigating-the-world-of-508-compliance-4e6c)
 508 compliance refers to the standards and guidelines set forth by Section 508 of the Rehabilitation Act of 1973 in the United States. The goal of this standard is to eliminate barriers in technology that could prevent individuals with disabilities from accessing, using, and interacting with digital information and services. It requires federal agencies to ensure that their electronic and information technology (EIT) is accessible to individuals with disabilities.
 
