@@ -14,7 +14,7 @@ Access to clean and potable water is a fundamental necessity, yet many regions, 
 
 ## What's going on in my world?
 
-- 🌱 I’m currently learning the implementation and capabilities of the PERN stack while honing my vanilla JavaScript.
+- 🌱 I’m currently digging into Java - specifically ingesting complex structured data.
 - 👯 I’m looking to collaborate on data projects with specific interest in neural networks and natural language processing. 
 - 💬 Feel free to ask me about anything data.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathanfetterolf/), [Dev.To](https://dev.to/fetterollie), [Twitter](https://twitter.com/fetterollie)
