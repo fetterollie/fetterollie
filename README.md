@@ -23,6 +23,9 @@ Access to clean and potable water is a fundamental necessity, yet many regions, 
 
 ## My Latest Blogs
 
+### [Coding: Growth, Learning, & Transformation](https://dev.to/fetterollie/coding-growth-learning-transformation-24mj)
+When I started my new position, I figured it would be technical, but I couldn’t have guessed that it would leave me completing coding challenges in my free time. This new role required me to dive into an array of unfamiliar languages, tools, and technologies. As I navigated this terrain, I recognized the importance of reinforcing my foundational coding skills. The constant problem-solving demands of my day-to-day coding motivated me to seek out resources that could aid my growth.
+
 ### [Streamlining Water Well Maintenance in Tanzania: A Logistic Regression Approach](https://dev.to/fetterollie/streamlining-water-well-maintenance-in-tanzania-a-logistic-regression-approach-eo9)
 Access to clean and potable water is a fundamental necessity, yet many regions, including Tanzania, face challenges in providing this essential resource. The IHH Humanitarian Relief Foundation, an NGO dedicated to improving water access, strives to efficiently allocate their maintenance efforts by accurately predicting the functionality of water pumps. By building a classification model, they can optimize their operations, maximize maintenance resources, and ensure clean water is readily available to the people of Tanzania.
 
